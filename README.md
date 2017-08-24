@@ -1,15 +1,15 @@
-1. 목표
+[목표]
 
 - Rap/Hiphop 장르의 가사들을 학습시켜 새로운 가사를 생성해내고, 말이 되게끔 만든다
 
-2. 분석 내용
+[분석 내용]
 
 - 웹 크롤링, DB 관리
 - n-gram / Word2Vec / t-SNE 를 통한 자연어 처리
 - 딥러닝의 RNN - LSTM 알고리즘으로 가사 학습 및 생성
 - Flask 모듈, html 활용을 통한 웹페이지 구현
 
-3. Workflow
+[Workflow]
 
 1) Data 수집
 
