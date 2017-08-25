@@ -37,5 +37,5 @@
 
 7) Python Flask를 이용한 웹페이지 구현
 
-nbviewer t-SNE   가능합니다
+nbviewer
 http://nbviewer.jupyter.org/github/KMJJ1/hiphop/blob/master/RNN%20-%20LSTM%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20Hiphop%20%EA%B0%80%EC%82%AC%20%EC%83%9D%EC%84%B1.ipynb
